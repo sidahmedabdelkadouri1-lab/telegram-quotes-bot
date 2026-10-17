@@ -7,7 +7,7 @@ from zoneinfo import ZoneInfo
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHANNEL_ID = os.environ["CHANNEL_ID"]
 
-START_DATE = date(2026, 10, 18)
+START_DATE = date(2026, 10, 17)
 TIMEZONE = ZoneInfo("Africa/Algiers")
 
 QUOTES = [
